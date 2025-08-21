@@ -75,3 +75,4 @@ Uma grande vantagem é a **dupla perspectiva**: entendo as necessidades e dores 
 
 - **LinkedIn:** https://www.linkedin.com/in/yurimachadoluz0311/
 - **E-mail:** yurimachadoluz@hotmail.com / yurimachadoluz@hmail.com
+
