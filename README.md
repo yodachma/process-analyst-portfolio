@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! Sou um profissional em transição para a área de Tecn
 
 ---
 
-## 🧠 Minha História & Abordagem
+## Minha História & Abordagem
 
 Minha jornada única começou na gestão de operações e processos em empresas como **IBM, Cielo e Santander**. Lá, aprendi na prática como identificar ineficiências, mapear fluxos e implementar melhorias que geram resultados tangíveis, como a **redução de 66% no tempo de um ciclo de onboarding**.
 
@@ -18,7 +18,7 @@ Minha grande vantagem é a **dupla perspectiva**: entendo as necessidades e dore
 
 ---
 
-## 🛠 Stack Técnica & Competências
+## Stack Técnica & Competências
 
 ### Linguagens & Automação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,7 +71,7 @@ Minha grande vantagem é a **dupla perspectiva**: entendo as necessidades e dore
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
 
 - **LinkedIn:** https://www.linkedin.com/in/yurimachadoluz0311/
 - **E-mail:** yurimachadoluz@hotmail.com / yurimachadoluz@hmail.com
