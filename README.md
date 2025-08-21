@@ -8,11 +8,11 @@ Bem-vindo ao meu perfil! Sou um profissional em transição para a área de Tecn
 
 ## Minha História & Abordagem
 
-Minha jornada única começou na gestão de operações e processos em empresas como **IBM, Cielo e Santander**. Lá, aprendi na prática como identificar ineficiências, mapear fluxos e implementar melhorias que geram resultados tangíveis, como a **redução de 66% no tempo de um ciclo de onboarding**.
+Minha jornada começou na gestão de operações e processos em empresas como **IBM, Cielo e Santander**. Lá, aprendi na prática como identificar ineficiências, mapear fluxos e implementar melhorias que geram resultados tangíveis, como a **redução de 66% no tempo de um ciclo de onboarding**.
 
-Decidi realizar uma transição de carreira estratégica para a área de Tecnologia, onde posso usar ferramentas mais poderosas para resolver os mesmos tipos de problema. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** para fundamentar tecnicamente essa mudança.
+Decidi realizar uma transição de carreira estratégica para a área de Tecnologia, onde posso usar ferramentas para resolver os mesmos tipos de problema. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** para fundamentar tecnicamente essa mudança.
 
-Minha grande vantagem é a **dupla perspectiva**: entendo as necessidades e dores do negócio (porque já vivi isso) e estou me capacitando para construir as soluções técnicas.
+Uma grande vantagem é a **dupla perspectiva**: entendo as necessidades e dores do negócio (porque já vivi isso) e estou me capacitando para construir as soluções técnicas.
 
 **Minha Caixa de Ferramentas:** Uso **Python e VBA** como ferramentas práticas para automação de rotinas e prototipação de soluções. Aplico **engenharia de prompt e IA generativa** de forma estratégica para acelerar o aprendizado e a resolução de problemas complexos.
 
