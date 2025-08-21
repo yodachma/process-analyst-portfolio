@@ -1,4 +1,4 @@
-# [Yuri Machado]
+# Yuri Machado
 
 **Analista em Formação | Foco em Eficiência Operacional, Processos & Automação**
 
