@@ -45,18 +45,18 @@ Uma grande vantagem é a **dupla perspectiva**: entendo as necessidades e dores 
 ## 📈 Experiência em Destaque
 
 ### **Otimização de Processo de Onboarding**
-**Contexto:** Gestão do fluxo de integração de novos colaboradores em ambiente de grande escala (~1.200 pessoas/mês).
+Gestão do fluxo de integração de novos colaboradores em ambiente de grande escala (~1.200 pessoas/mês).
 **Ação:** Mapeamento detalhado do processo As-Is, identificação de gargalos e redundâncias, e redesign do fluxo.
 **Resultado:** Redução do ciclo total de **7 para 3 dias** (66% de melhoria), aumentando a eficiência operacional e a satisfação dos novos contratados.
 
 ### **Automação de Arquivo de Documentos**
-**Contexto:** Necessidade de organizar e arquivar centenas de documentos de forma padronizada.
+Necessidade de organizar e arquivar centenas de documentos de forma padronizada.
 **Ação:** Desenvolvimento de script em Python para classificar, renomear e mover arquivos automaticamente.
-**Ferramentas:** Python (Pandas, OS, Shutil), VS Code, Engenharia de Prompt para auxiliar no desenvolvimento.
+**Ferramentas:** Python (Pandas, OS, Shutil)
 **Resultado:** Eliminação de tarefa manual repetitiva, garantindo precisão e liberando tempo para atividades de maior valor.
 
 ### **Otimização de Fluxo de Comunicação**
-**Contexto:** Backoffice para operações financeiras na Cielo, com alto volume de demandas de áreas críticas (Ouvidoria, Jurídico).
+Backoffice para operações financeiras na Cielo, com alto volume de demandas de áreas críticas (Ouvidoria, Jurídico).
 **Ação:** Análise do fluxo de mensagens e implementação de regras de automação e organização na caixa de email compartilhada (Microsoft 365).
 **Resultado:** Melhoria na rastreabilidade de demandas, redução do tempo de resposta e maior clareza na priorização.
 
