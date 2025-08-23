@@ -47,14 +47,17 @@ Uma grande vantagem é a **dupla perspectiva**: entendo as necessidades e dores 
 ### **Otimização de Processo de Onboarding**
 Gestão do fluxo de integração de novos colaboradores em ambiente de grande escala (~1.200 pessoas/mês). 
 Mapeamento detalhado do processo As-Is, identificação de gargalos e redundâncias, e redesign do fluxo. 
-**Resultado** Redução do ciclo total de **7 para 3 dias** (66% de melhoria), aumentando a eficiência operacional e a satisfação dos novos contratados.
+
+**Resultado:** Redução do ciclo total de **7 para 3 dias** (66% de melhoria), aumentando a eficiência operacional e a satisfação dos novos contratados.
 
 ### **Automação de Arquivo de Documentos**
 Necessidade de organizar e arquivar centenas de documentos de forma padronizada. Desenvolvimento de script em Python (Pandas, OS, Shutil) para classificar, renomear e mover arquivos automaticamente.
+
 **Resultado:** Eliminação de tarefa manual repetitiva, garantindo precisão e liberando tempo para atividades de maior valor.
 
 ### **Otimização de Fluxo de Comunicação**
 Backoffice para operações financeiras na Cielo, com alto volume de demandas de áreas críticas (Ouvidoria, Jurídico). Análise do fluxo de mensagens e implementação de regras de automação e organização na caixa de email compartilhada (Microsoft 365).
+
 **Resultado:** Melhoria na rastreabilidade de demandas, redução do tempo de resposta e maior clareza na priorização.
 
 ---
