@@ -2,7 +2,7 @@
 
 **Analista em Formação | Foco em Eficiência Operacional, Processos & Automação**
 
-Bem-vindo ao meu perfil! Sou um profissional em transição para a área de Tecnologia, com uma base sólida em operações de grande escala. Minha trajetória é movida pela busca incessante de eficiência, e agora estou canalizando essa experiência para a análise de processos e automação, unindo o mundo operacional ao técnico.
+Bem-vindo ao meu perfil! Sou um profissional em transição para a área de Tecnologia, com uma base sólida em operações de grande escala. Minha trajetória é movida pela busca constante em aprendizado continuo e eficiência, e agora estou canalizando essa experiência para a análise de processos e automação, unindo o mundo operacional ao técnico.
 
 ---
 
