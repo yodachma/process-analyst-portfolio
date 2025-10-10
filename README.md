@@ -1,78 +1,116 @@
-# Yuri Machado
+# 👋 Olá! Eu sou o Yuri Machado Luz
 
-**Analista em Formação | Foco em Eficiência Operacional, Processos & Automação**
+💻 **Desenvolvedor Júnior | Full-Stack | Análise de Sistemas**
 
-Bem-vindo ao meu perfil! Sou um profissional em transição para a área de Tecnologia, com uma base sólida em operações de grande escala. Minha trajetória é movida pela busca constante em aprendizado continuo e eficiência, e agora estou canalizando essa experiência para a análise de processos e automação, unindo o mundo operacional ao técnico.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yurimachadoluz0311)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yurimachadoluz@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuri-Machado-Luz)
 
----
+## 🚀 Sobre Mim
 
-## Minha História & Abordagem
+Desenvolvedor em formação com background em **análise de sistemas e otimização de processos**. Atuo na interseção entre tecnologia, design e negócios, buscando desenvolver soluções que sejam **tecnicamente robustas e centradas no usuário**.
 
-Minha jornada começou na gestão de operações e processos em empresas como **IBM, Cielo e Santander**. Lá, aprendi na prática como identificar ineficiências, mapear fluxos e implementar melhorias que geram resultados tangíveis, como a **redução de 66% no tempo de um ciclo de onboarding**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (UNICID)
+- 💼 Experiência em **otimização de processos** em empresas como IBM, Cielo e Santander
+- 🎨 **Perfil híbrido**: combino conhecimentos técnicos com visão estratégica e design
+- 🔍 Buscando oportunidades como **Desenvolvedor Júnior, Analista de Sistemas ou áreas correlatas**
 
-Decidi realizar uma transição de carreira estratégica para a área de Tecnologia, onde posso usar ferramentas para resolver os mesmos tipos de problema. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** para fundamentar tecnicamente essa mudança.
+## 🛠️ Tecnologias & Ferramentas
 
-Uma grande vantagem é a **dupla perspectiva**: entendo as necessidades e dores do negócio (porque já vivi isso) e estou me capacitando para construir as soluções técnicas.
+**Linguagens & Desenvolvimento:**
 
-**Minha Caixa de Ferramentas:** Uso **Python e VBA** como ferramentas práticas para automação de rotinas e prototipação de soluções. Aplico **engenharia de prompt e IA generativa** de forma estratégica para acelerar o aprendizado e a resolução de problemas complexos.
-
----
-
-## Stack Técnica & Competências
-
-### Linguagens & Automação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
 
-### Análise de Processos & Dados
-![BPMN](https://img.shields.io/badge/BPMN-2.0-FF6B6B?style=for-the-badge)
-![Microsoft Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Análise_de_Dados-008080?style=for-the-badge)
+**Ferramentas & Plataformas:**
 
-### Ferramentas de Desenvolvimento
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0FAAFF?style=for-the-badge&logo=servicenow&logoColor=white)
 
-### Metodologias & Frameworks
-- **Gestão de Processos:** Mapeamento de Processos (As-Is/To-Be), BPMN 2.0
-- **Melhoria Contínua:** PDCA, Kaizen, Princípios Lean
-- **Gestão de Projetos:** Noções em Métodos Ágeis (Scrum/Kanban)
+**Metodologias:**
 
----
+![Scrum](https://img.shields.io/badge/Scrum-009639?style=for-the-badge&logo=scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=for-the-badge&logo=kanban&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-FF6B6B?style=for-the-badge)
+![Lean](https://img.shields.io/badge/Lean-008080?style=for-the-badge)
+![PDCA](https://img.shields.io/badge/PDCA-FF9800?style=for-the-badge)
 
-## 📈 Experiência em Destaque
+## 💼 Experiência em Destaque
 
-### **Otimização de Processo de Onboarding**
-Gestão do fluxo de integração de novos colaboradores em ambiente de grande escala (~1.200 pessoas/mês). 
-Mapeamento detalhado do processo As-Is, identificação de gargalos e redundâncias, e redesign do fluxo. 
+### 🏢 IBM | Assistente Administrativo Pleno
 
-**Resultado:** Redução do ciclo total de **7 para 3 dias** (66% de melhoria), aumentando a eficiência operacional e a satisfação dos novos contratados.
+***Período:*** *Dez 2024 - Abr 2025*
 
-### **Automação de Arquivo de Documentos**
-Necessidade de organizar e arquivar centenas de documentos de forma padronizada. Desenvolvimento de script em Python (Pandas, OS, Shutil) para classificar, renomear e mover arquivos automaticamente.
+- **Redesenhei processo** de onboarding, reduzindo tempo de integração de 7 para 3 dias
+- **Desenvolvi script Python** para automação de arquivamento em larga escala
+- **Documentei SOPs** e colaborei no refinamento de sistema de monitoramento
 
-**Resultado:** Eliminação de tarefa manual repetitiva, garantindo precisão e liberando tempo para atividades de maior valor.
+### 💳 Cielo | Analista de Backoffice
 
-### **Otimização de Fluxo de Comunicação**
-Backoffice para operações financeiras na Cielo, com alto volume de demandas de áreas críticas (Ouvidoria, Jurídico). Análise do fluxo de mensagens e implementação de regras de automação e organização na caixa de email compartilhada (Microsoft 365).
+***Período:*** *Jul 2021 - Abr 2022*
 
-**Resultado:** Melhoria na rastreabilidade de demandas, redução do tempo de resposta e maior clareza na priorização.
+- **Implementei automações** com Power Automate para triagem de e-mails
+- **Garanti conformidade** regulatória no processamento de recebíveis
+- **Otimizei fluxos** de comunicação entre setores críticos
 
----
+### 🏦 Santander | Analista de Suporte Técnico
 
-## 🌱 O Que Estou Aprendendo Agora
+***Período:*** *Mai 2020 - Fev 2021*
 
-- Aprofundando meus conhecimentos em **Python** para análise de dados e automação (Pandas, NumPy).
-- Estudando **BPMN 2.0** de forma mais aprofundada para modelagem precisa de processos.
-- Explorando **Power BI** para criação de dashboards e visualização de dados.
-- Praticando **engenharia de prompt** de forma avançada para me tornar mais eficiente na prototipação.
+- **Suporte técnico** de 2º nível e manutenção de base de dados
+- **Aplicação de protocolos** de segurança da informação
 
----
+## 🎨 Freelancer | Design & Tecnologia
 
-## Como me encontrar
+***Período:*** *Jan 2020 - Atual*
 
-- **LinkedIn:** https://www.linkedin.com/in/yurimachadoluz0311/
-- **E-mail:** yurimachadoluz@hotmail.com / yurimachadoluz@hmail.com
+- **Desenvolvimento de identidade visual** (logos, manuais de marca)
+- **Produção de conteúdo técnico** e redação especializada
+- **Soluções personalizadas** unindo criatividade e estratégia
 
+## 📊 Projetos Destacados
+
+### 🤖 Automação de Arquivamento | Python
+
+Script para classificação e organização automática de documentos em larga escala na IBM
+
+### ⚡ Otimização de Onboarding | BPMN
+
+Redesign completo do fluxo de integração, reduzindo 57% do tempo de processo
+
+### 📧 Sistema de Triagem | Power Automate
+
+Automação para classificação e direcionamento de demandas por e-mail
+
+## 📚 Formação
+
+**Análise e Desenvolvimento de Sistemas**  
+Universidade Cidade de São Paulo - Previsão de conclusão: 2027
+
+**Psicologia** (8º semestre)  
+Universidade Nove de Julho - Conhecimentos aplicados em UX e comunicação
+
+## 🌟 Diferenciais
+
+- **Perfil T-Shaped**: Base técnica sólida + conhecimentos em design e psicologia
+- **Visão End-to-End**: Experiência desde a concepção até a entrega de projetos
+- **Comunicação Efetiva**: Ponte entre equipes técnicas e de negócio
+- **Capacidade Analítica**: Resolução de problemas com abordagem estruturada
+
+## 📞 Contato
+
+**Email:** [yurimachadoluz@hotmail.com](mailto:yurimachadoluz@hotmail.com)  
+**LinkedIn:** [linkedin.com/in/yurimachadoluz0311](https://linkedin.com/in/yurimachadoluz0311)  
+**Telefone:** +55 (11) 9 4935-9394
+
+💬 **Vamos conversar?** Estou aberto a oportunidades como Desenvolvedor Júnior, Analista de Sistemas e posições correlatas!
